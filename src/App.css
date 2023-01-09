@@ -1,0 +1,30 @@
+.firstObject {
+  position: absolute;
+  /* left: 485px; */
+}
+.btn_wrap{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.secondObject{
+  position: absolute;
+  top: 30%;
+  cursor: pointer;
+}
+.thgirdObject{
+  position: absolute;
+  top: 40%;
+  cursor: pointer;
+}
+body{
+  overflow: hidden;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 300px;
+  position: absolute;
+  right: 12%;
+  top: 10%;
+}
